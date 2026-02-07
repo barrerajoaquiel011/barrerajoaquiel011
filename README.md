@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [Prerequisites-and-Installation](https://github.com/barrerajoaquiel011/osticket-prereqs)
+  - [Prerequisites-and-Installation](https://github.com/barrerajoaquiel011/Prerequisites-and-Installation)
  
 <h2>🤳Connect with me:</h2>
 
